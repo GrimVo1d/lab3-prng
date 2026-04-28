@@ -1,6 +1,4 @@
 build/
-docs/html/
-docs/latex/
 hw3
 samples/*.bin
 nist_sts/
